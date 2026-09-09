@@ -1,0 +1,14 @@
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.AssemblyInfoInputs.cache
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.AssemblyInfo.cs
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.csproj.CoreCompileInputs.cache
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /bin/Debug/net10.0/Bài 2
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /bin/Debug/net10.0/Bài 2.deps.json
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /bin/Debug/net10.0/Bài 2.runtimeconfig.json
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /bin/Debug/net10.0/Bài 2.dll
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /bin/Debug/net10.0/Bài 2.pdb
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.dll
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/refint/Bài 2.dll
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.pdb
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/Bài 2.genruntimeconfig.cache
+/Users/binbin/Documents/Lập trình .NET/Bài 2 /Bài 2 /obj/Debug/net10.0/ref/Bài 2.dll
